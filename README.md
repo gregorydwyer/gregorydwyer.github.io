@@ -8,7 +8,8 @@ I have an AAS in Audio Recording Technology, 5+ years of electronics repair expe
 
 ```markdown
 Reasons you should want me on your project
-### Things I bring to the table
+(i.e. Things I bring to the table)
+
 - I will get it done, or deprive myself of sleep trying.
 - My word play humor may not be funny, but it will keep you on your toes.
 - I dabble in all sorts of fields: graphic design, video editing, circuit design...
