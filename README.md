@@ -6,7 +6,6 @@ I have too many hobbies to keep track of and a passion for making things work, b
 ### Sounds...good?...What experience do you have?
 I have an AAS in Audio Recording Technology, 5+ years of electronics repair experience and a couple of years of self taught coding experience prior to my current educatoin.
 
-```markdown
 Reasons you should want me on your project
 (i.e. Things I bring to the table)
 
@@ -15,13 +14,10 @@ Reasons you should want me on your project
       but it will keep you on your toes.
 - I dabble in all sorts of fields: 
       graphic design, video editing, circuit design...
-- I have two cats, I can _definitely_ bring them to the table.
-- I've been known to bring donughts from time to time.
+- I have two [cats](https://raw.githubusercontent.com/gregorydwyer/gregorydwyer.github.io/master/imgs/cats.jpg), 
+      I can definitely bring them to the table.
+- I've been known to bring donuts from time to time.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
