@@ -1,25 +1,19 @@
-## Gregory C. Dwyer
+## But really, who are you?
 
-This is a page about me.
+Well, the short and sweet version is I am an aspiring programming student, with a love of puns and a bit too much caffeine.
+I have too many hobbies to keep track of and a passion for making things work, be they electronic, mechanical or theoretical.
 
-There will be information
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Sounds...good?...What experience do you have?
+I have an AAS in Audio Recording Technology, 5+ years of electronics repair experience and a couple of years of self taught coding experience prior to my current educatoin.
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+Reasons you should want me on your project
+### Things I bring to the table
+- I will get it done, or deprive myself of sleep trying.
+- My word play humor may not be funny, but it will keep you on your toes.
+- I dabble in all sorts of fields: graphic design, video editing, circuit design...
+- I have two [cats](https://raw.githubusercontent.com/gregorydwyer/gregorydwyer.github.io/master/imgs/cats.jpg), I can _definitely_ bring them to the table.
+- I've been known to bring donughts from time to time.
 
 **Bold** and _Italic_ and `Code` text
 
