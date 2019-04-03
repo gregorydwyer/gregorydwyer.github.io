@@ -11,8 +11,10 @@ Reasons you should want me on your project
 (i.e. Things I bring to the table)
 
 - I will get it done, or deprive myself of sleep trying.
-- My word play humor may not be funny, but it will keep you on your toes.
-- I dabble in all sorts of fields: graphic design, video editing, circuit design...
+- My word play humor may not be funny, 
+      but it will keep you on your toes.
+- I dabble in all sorts of fields: 
+      graphic design, video editing, circuit design...
 - I have two cats, I can _definitely_ bring them to the table.
 - I've been known to bring donughts from time to time.
 
