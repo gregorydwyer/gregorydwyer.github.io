@@ -12,7 +12,7 @@ Reasons you should want me on your project
 - I will get it done, or deprive myself of sleep trying.
 - My word play humor may not be funny, but it will keep you on your toes.
 - I dabble in all sorts of fields: graphic design, video editing, circuit design...
-- I have two [cats](https://raw.githubusercontent.com/gregorydwyer/gregorydwyer.github.io/master/imgs/cats.jpg), I can _definitely_ bring them to the table.
+- I have two cats, I can _definitely_ bring them to the table.
 - I've been known to bring donughts from time to time.
 
 **Bold** and _Italic_ and `Code` text
