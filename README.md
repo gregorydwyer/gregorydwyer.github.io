@@ -1,9 +1,9 @@
-## But really, who are you?
+# But really, who are you?
 
 Well, the short and sweet version is I am an aspiring programming student, with a love of puns and a bit too much caffeine.
 I have too many hobbies to keep track of and a passion for making things work, be they electronic, mechanical or theoretical.
 
-### Sounds...good?...What experience do you have?
+### Sounds good. What experience do you have?
 I have an AAS in Audio Recording Technology, 5+ years of electronics repair experience and a couple of years of self taught coding experience prior to my current educatoin.
 
 Reasons you should want me on your project
@@ -15,11 +15,11 @@ Reasons you should want me on your project
 - I dabble in all sorts of fields: 
       graphic design, video editing, circuit design...
 - I have two [cats](https://raw.githubusercontent.com/gregorydwyer/gregorydwyer.github.io/master/imgs/cats.jpg), 
-      I can definitely bring them to the table.
+      I can *definitely* bring them to the table.
 - I've been known to bring donuts from time to time.
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+My biggest coding accomplishment at this point is a game for Android based on a board game called [British Square](https://play.google.com/store/apps/details?id=firstfrontiergames.britishsquare.apk). It was written using the AppGameKit engine and uses a C based language.
 
 ### Jekyll Themes
 
