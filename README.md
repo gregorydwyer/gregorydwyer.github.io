@@ -9,7 +9,7 @@ I am looking for an internship or position where I can work with a team to solve
 I have an AAS in Audio Recording Technology, 5+ years of electronics repair experience and a couple of years of self taught coding experience prior to my current education. My full résumé can be obtained [here](/imgs/Dwyer, Gregory - Resume.pdf).
 
 ### Projects
-My biggest coding project at this point is a game for Android based on a board game called [British Square](https://play.google.com/store/apps/details?id=firstfrontiergames.britishsquare.apk). It was written using the AppGameKit engine and uses a C based language. Try the HTML5 version [here](/HTML5/British_Squares.html)!
+My biggest coding project at this point is a game for Android, based on a board game called [British Square](https://play.google.com/store/apps/details?id=firstfrontiergames.britishsquare.apk). It was written using the AppGameKit engine and uses a C based language. Try the HTML5 version [here](/HTML5/British_Squares.html)!
 
 ## Contact Information
 The best way to get in touch with me is by email. I can be reached anytime at gregorydwyer@live.com.
