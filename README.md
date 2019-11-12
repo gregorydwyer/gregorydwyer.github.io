@@ -11,5 +11,11 @@ I have an AAS in Audio Recording Technology, 5+ years of electronics repair expe
 ### Projects
 My biggest coding project at this point is a game for Android, based on a board game called [British Square](https://play.google.com/store/apps/details?id=firstfrontiergames.britishsquare.apk). It was written using the AppGameKit engine and uses a C based language. Try the HTML5 version [here](/HTML5/British_Squares.html)!
 
+The full source code for British Square as well as a few other examples of my work are available on my Git Hub profile page.
+
+Most recently I built electronics project was a mini portable arcade. The gallery can be viewed [here](https://photos.app.goo.gl/7Pxfr6jfeDeYnJdX9).
+
+I also built a portable secondary monitor for dual screens on the go. Images can be found in this [gallery](https://photos.app.goo.gl/MP6mkUqGMsDGZiSs9).
+
 ## Contact Information
 The best way to get in touch with me is by email. I can be reached anytime at gregorydwyer@live.com.
